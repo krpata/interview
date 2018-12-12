@@ -1,0 +1,15 @@
+# LOG
+*.log
+
+# IDEA
+/.idea/
+*.iml
+
+# ECLIPSE
+.project
+.classpath
+/.settings/
+
+
+# MAVEN
+target/
